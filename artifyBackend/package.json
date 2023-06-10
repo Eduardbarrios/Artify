@@ -1,0 +1,28 @@
+{
+  "name": "artify",
+  "version": "1.0.0",
+  "description": "Backend server for Artify, an online art gallery showcasing pre-Columbian artworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduardbarrios/Artify.git"
+  },
+  "keywords": [
+    "backend",
+    "nodejs"
+  ],
+  "author": "@eduard09 <eduardbarrios0903@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eduardbarrios/Artify/issues"
+  },
+  "homepage": "https://github.com/Eduardbarrios/Artify#readme",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "pg": "^8.11.0"
+  }
+}
