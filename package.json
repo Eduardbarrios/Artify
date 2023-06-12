@@ -4,7 +4,7 @@
   "description": "Backend server for Artify, an online art gallery showcasing pre-Columbian artworks.",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
